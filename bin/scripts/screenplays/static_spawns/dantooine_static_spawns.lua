@@ -35,6 +35,7 @@ function DantooineStaticSpawnsScreenPlay:spawnMobiles()
 
 
 	spawnMobile("dantooine", "dark_jedi_master", 3600, -738.2, 1.7, 2103.9, 55, 0)
+	spawnMobile("dantooine", "dark_jedi_master", 3600, 4194.3, 9.0, 5201.3, 24, 0)
 
 	--Need to add the rest of static spawns (Incomplete).
 end
